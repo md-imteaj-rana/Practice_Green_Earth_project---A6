@@ -1,3 +1,5 @@
+All the API's are provided by the organaization - Programming Hero.
+
 🌴 API Endpoints
 ---
 1. Get 🌴All Plants
