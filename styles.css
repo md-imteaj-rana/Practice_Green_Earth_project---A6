@@ -1,1 +1,4 @@
 @import "tailwindcss";
+
+.modal.modal-top .modal-box { 
+  margin-top: 1rem; }
